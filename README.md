@@ -7,6 +7,8 @@ Introduction
 
  
 IMPORTANCE
+
+
 Enhanced Entertainment: Tailors movie suggestions, contributing to a more enjoyable viewing experience.
 Diverse Discovery: Expands viewers' cinematic exposure and encourages exploration.
 
