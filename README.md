@@ -27,5 +27,7 @@ Techniques Used:
 
 
 Conclusions and Future Work
+
+
 ➢In conclusion we can say that the collaborative filtering using model based is performing the best among all the tested techniques. ➢But the results for the other techniques are not too far off. ➢Through the utilization of advanced algorithms and data analysis techniques, these systems can accurately predict user preferences and provide tailored recommendations. However, challenges such as the cold start problem, scalability, and ethical considerations remain pertinent. ➢From this we can conclude that even though one technique is giving a superior result, that doesn't mean it is definitely the best one as the other techniques were not too bad either. ➢In future more techniques can be tested together or a different dataset might give different result. That can be worked in the future. ➢ As we look to the future, integrating emerging technologies and addressing ethical concerns will be essential for ensuring the effectiveness and trustworthiness of movie recommendation systems.
 
